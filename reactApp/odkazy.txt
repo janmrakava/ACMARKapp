@@ -1,0 +1,3 @@
+https://imranhsayed.medium.com/set-up-react-app-with-webpack-webpack-dev-server-and-babel-from-scratch-df398174446d
+https://medium.com/@successivetech/restler-api-beginners-guide-54c63a083b72
+https://www.cloudhadoop.com/reactjs-input-number-validation/
